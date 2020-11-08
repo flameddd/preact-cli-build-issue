@@ -1,4 +1,4 @@
-# preact-cli-build-issue reproduce build issue
+# preact-cli-build-issue reproduce build issue https://github.com/preactjs/preact-cli/issues/1469
 This repo is reproduce `preact-cli` build, try to load an un-exist ts file.
 
 I using a 3rd parity library, and build fail.  
