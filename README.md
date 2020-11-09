@@ -1,7 +1,7 @@
 # preact-cli-build-issue reproduce build issue https://github.com/preactjs/preact-cli/issues/1469
 This repo is reproduce `preact-cli` build, try to load an un-exist ts file.
 
-I using a 3rd parity library, and build fail.  
+I using a 3rd parity library (https://github.com/flameddd/preact-cli-build-issue/commit/a1bb98f837dd91ef54ce440a25856b408ce289b4), and build fail.  
 - [@justinribeiro/lite-youtube](https://github.com/justinribeiro/lite-youtube)
 - `@justinribeiro/lite-youtube`'s file structure and `package.json` are listed in below
   - `package.json`'s `main` and `module` are indicate to `lite-youtube.js`
